@@ -1,3 +1,4 @@
+#                                                                   Scraping
 ## Interduction
 Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites using its HTML structure, In this post, I will explain how to extract data from authenticated required websites using Flask with python programing.
 
